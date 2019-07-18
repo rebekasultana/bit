@@ -5,7 +5,7 @@ public class Basic {
 	        int b = 18; 
 	     int  sum = a + b;
 	        System.out.println("The sum is =" + sum); 
-	      	
+	      //new code..	
 	}
 
 }
